@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tallahasseeplumbingco.com/sitemap.xml
